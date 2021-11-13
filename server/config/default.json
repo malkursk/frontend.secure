@@ -1,5 +1,0 @@
-{
-  "serverPort": 5000,
-  "dbUrl": "mongodb+srv://admin:admin@cluster0.3b7yr.mongodb.net/messanger?retryWrites=true&w=majority",
-  "secretKey": "mess-secret-key"
-}
