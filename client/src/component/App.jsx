@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar/Navbar";
-import './app.less'
+import './app.css'
 
 function App() {
   return (
